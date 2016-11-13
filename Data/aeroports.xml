@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<listeAeroport>
+	<Aeroport code="ATL"    nom="Aéroport international Hartsfield-Jackson d'Atlanta"          ville="Atlanta"/>
+	<Aeroport code="PEK"    nom="Aéroport international de Pékin"                              ville="Beijing"/>
+	<Aeroport code="DXB"    nom="Aéroport international de Dubaï"                              ville="Dubai"/>
+	<Aeroport code="ORD"    nom="Aéroport international O'Hare de Chicago"                     ville="Chicago"/>
+	<Aeroport code="HND"    nom="Aéroport international de Tokyo-Haneda"                       ville="Ōta"/>
+	<Aeroport code="LHR"    nom="Aéroport de Londres-Heathrow"                                 ville="Hillingdon"/>
+	<Aeroport code="LAX"    nom="Aéroport international de Los Angeles"                        ville="Los Angeles"/>
+	<Aeroport code="HKG"    nom="Aéroport international de Hong Kong"                          ville="Hong Kong"/>
+	<Aeroport code="CDG" 	nom="Paris Charles-de-Gaulle" 		                               ville="ile-de-france"/>
+	<Aeroport code="ORY" 	nom="Paris Orly" 					                               ville="ile-de-france"/>
+	<Aeroport code="IST" 	nom="Aéroport Atatürk d'Istanbul" 			                       ville="Istanbul"/>
+	<Aeroport code="FRA" 	nom="Aéroport de Francfort" 				                       ville="Francfort"/>
+	<Aeroport code="FCO" 	nom="Rome Fiumicino" 				                               ville="Rome"/>
+	<Aeroport code="PVG" 	nom="Aéroport international de Shanghai-Pudong"				       ville="Shanghai"/>
+	<Aeroport code="LIN" 	nom="Milan Linate" 					                               ville="Milan"/>
+	<Aeroport code="BGY" 	nom="Milan Bergame" 				                               ville="Milan"/>
+	<Aeroport code="MXP" 	nom="Milan Malpensa" 				                               ville="Milan"/>
+	<Aeroport code="PDL" 	nom="João Paulo II" 				                               ville="kharkiv"/>
+	<Aeroport code="FLW " 	nom="Aéroport de Flores" 			                               ville="Flores"/>
+	<Aeroport code="DAAG"   nom="Houari Boumediene"                                            ville="Alger"/>
+	<Aeroport code="MAD"    nom="Aéropor Madrid-Barajas"                                       ville="Madrid"/>
+	
+</listeAeroport>

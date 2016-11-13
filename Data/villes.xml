@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<listeVille>
+	<ville code="FR001" 	nom="PARIS"/>
+	<ville code="FR002" 	nom="Hillingdon"/>
+	<ville code="FR003" 	nom="Chicago"/>
+	<ville code="FR004"		nom="MARSEILLE"/>
+	<ville code="IT001" 	nom="MILAN"/>
+	<ville code="IT002" 	nom="Los Angeles"/>
+	<ville code="PO001" 	nom="Istanbul"/>
+	<ville code="PO002" 	nom="Francfort"/>
+	<ville code="JP001"		nom="TOKYO"/>
+	<ville code="CH001"     nom="HONG-KONG"/>
+	<ville code="AU001"		nom="Rome"/>
+	<ville code="BE001"		nom="Beijing"/>
+	<ville code="US001"     nom="Ōta"/>
+	<ville code="AL001"     nom="Alger"/>
+	<ville code="EA001"		nom="DUBAI"/>
+	<ville code="MA001"     nom="Madrid"/>
+</listeVille>

@@ -1,0 +1,27 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<aeroportville>
+	<lien codeAeroport="CDG" codeVille="FR002" />
+	<lien codeAeroport="CDG" codeVille="FR003" />
+	<lien codeAeroport="CDG" codeVille="IT001" />
+	<lien codeAeroport="CDG" codeVille="IT003" />
+	<lien codeAeroport="ORY" codeVille="FR002" />
+	<lien codeAeroport="ORY" codeVille="FR003" />
+	<lien codeAeroport="ORY" codeVille="IT003" />
+	<lien codeAeroport="PEK" codeVille="BE001" />
+	<lien codeAeroport="DXB" codeVille="EA001" />
+	<lien codeAeroport="ORD" codeVille="FR003" />
+	<lien codeAeroport="HND" codeVille="US001" />
+	<lien codeAeroport="LHR" codeVille="FR002" />
+	<lien codeAeroport="LAX" codeVille="IT002" />
+	<lien codeAeroport="HKG" codeVille="CH001" />
+	<lien codeAeroport="IST" codeVille="PO001" />
+	<lien codeAeroport="FRA" codeVille="PO002" />
+	<lien codeAeroport="FCO" codeVille="AU001" />
+	<lien codeAeroport="LIN" codeVille="IT001" />
+	<lien codeAeroport="BGY" codeVille="IT001" />
+	<lien codeAeroport="MXP" codeVille="IT001" />
+	<lien codeAeroport="DAAG" codeVille="AL001"/>
+	<lien codeAeroport="MAD" codeVille="MA001" />
+
+
+</aeroportville>

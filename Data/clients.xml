@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<clients>
+  <client adresse="e" nom="e" numTel="001" prenom="e"/>
+  <client adresse="a" nom="a" numTel="002" prenom="a"/>
+  <client adresse="qzeqzezq" nom="zeqze" numTel="qzeqzezq" prenom="qzeqze"/>
+  <client adresse="ee" nom="ee" numTel="ee" prenom="ee"/>
+  <client adresse="ze" nom="rae" numTel="ee" prenom="r"/>
+  <client adresse="" nom="" numTel="" prenom=""/>
+  <client adresse="" nom="" numTel="" prenom=""/>
+  <client adresse="sdsd" nom="sds" numTel="sdsd" prenom="sdsd"/>
+  <client adresse="coucou" nom="Coucou" numTel="coucou" prenom="coucou"/>
+  <client adresse="d" nom="d" numTel="d" prenom="d"/>
+  <client adresse="sd" nom="sd" numTel="sd" prenom="sd"/>
+  <client adresse="sd" nom="sd" numTel="sd" prenom="sd"/>
+  <client adresse="6 rue de la proue, 59200 Lille" nom="Pierre" numTel="+33612345678" prenom="Durand"/>
+  <client adresse="6 rue de la proue, 59200 Lille" nom="Pierre" numTel="+33612345678" prenom="Durand"/>
+  <client adresse="6 rue de la proue, 59200 Lille" nom="Pierre" numTel="+33612345678d" prenom="Durand"/>
+  <client adresse="6 rue de la proue, 59200 Lille" nom="Pierre" numTel="sdsd" prenom="Durand"/>
+  <client adresse="sds" nom="sds" numTel="sds" prenom="sds"/>
+  <client adresse="6 rue de la proue, 59200 Lille" nom="Pierre" numTel="+33612345678" prenom="Durand"/>
+  <client adresse="6 rue de la proue, 59200 Lille" nom="Pierre" numTel="+33612345678" prenom="Durand"/>
+  <client adresse="6 rue de la proue, 59200 Lille" nom="Pierre" numTel="+33612345678" prenom="Durand"/>
+  <client adresse="6 rue de la proue, 59200 Lille" nom="Pierre" numTel="+33612345678" prenom="Durand"/>
+  <client adresse="6/11 sdsds d" nom="Umberto" numTel="+33612345678" prenom="Emonds"/>
+</clients>

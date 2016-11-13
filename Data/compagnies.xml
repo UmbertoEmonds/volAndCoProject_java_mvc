@@ -1,0 +1,13 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<listeCompagnie>
+	<compagnie code="AFR" 	nom="Air France" />
+	<compagnie code="ACA" 	nom="Air Canada" />
+	<compagnie code="RYR" 	nom="Ryanair"/>
+	<compagnie code="LMP" 	nom="Air Plus Argentina" />
+	<compagnie code="DLH" 	nom="Lufthansa"/>
+	<compagnie code="QFA" 	nom="Qantas"/>
+	<compagnie code="BEL" 	nom="Brussels Airlines"/>
+	<compagnie code="KOR" 	nom="Air Koryo"/>
+	<compagnie code="ANZ" 	nom="Air New Zeland"/>
+	<compagnie code="EMI" 	nom="Emirates"/>
+</listeCompagnie>
